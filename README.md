@@ -3,7 +3,7 @@
 <em>I am a 5th Year master degree from <a href="https://www.hust.edu.vn/"><b>Ha Noi University Of Science And Technology</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/mramra3004/mramra3004/blob/master/resources/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/mramra3004/mramra3004/blob/master/resources/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
  
- <a href="https://app.daily.dev/lebatuananh"><img src="https://api.daily.dev/devcards/35a5a44b954b4c27b12aaef48674814c.png?r=4km" width="400" alt="Lê Bá Tuấn Anh's Dev Card"/></a>
+ <a href="https://app.daily.dev/lebatuananh"><img src="https://github.com/mramra3004/mramra3004/blob/master/devcard.svg" width="400" alt="Lê Bá Tuấn Anh's Dev Card"/></a>
 
  
 ## Ask me about :computer: 
