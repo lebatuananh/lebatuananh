@@ -12,7 +12,9 @@
 	- Some PHP and Go
 
 <img align="right" src="https://github.com/mramra3004/mramra3004/blob/master/resources/Developer.gif"/>
+
 <a href="https://app.daily.dev/lebatuananh"><img src="https://api.daily.dev/devcards/35a5a44b954b4c27b12aaef48674814c.png?r=4km" width="400" alt="Lê Bá Tuấn Anh's Dev Card"/></a>
+
 - **Web Development**
     - ASP.NET Core
     - ASP.NET MVC
